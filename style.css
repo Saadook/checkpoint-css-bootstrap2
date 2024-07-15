@@ -2,3 +2,15 @@
 display: flex;
 flex-direction: row;
 }
+.container-fluid{
+    background-color: aqua;
+}
+.dropdown-menu{
+    color: red;
+}
+.container{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    
+}
